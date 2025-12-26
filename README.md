@@ -4,10 +4,10 @@ I'm a passionate Data Analyst and BI Developer from Moscow, Russia, with 3+ year
 
 ## 🚀 Skills
 
-**Programming Languages:** Python, SQL, Jinja  
+**Programming Languages:** Python, SQL, Jinja
 **BI & Visualization:** Apache Superset, Power BI, SSRS  
-**Databases:** PostgreSQL, MS SQL, Greenplum, ClickHouse, Hive  
-**Data Engineering:** PySpark, Apache Airflow, Apache Spark, ETL/ELT  
+**Databases:** PostgreSQL, MS SQL, Greenplum, ClickHouse, Hive, Trino 
+**Data Engineering:** PySpark, Apache Airflow, Apache Spark, ETL/ELT, Kafka, Grafana
 **Tools & Platforms:** Jupyter Notebook, Docker, Git, Jira, Confluence  
 **Languages:** Russian (Native), English (B1)
 
