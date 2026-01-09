@@ -13,21 +13,19 @@ I'm a passionate Data Analyst and BI Developer from Moscow, Russia, with 3+ year
 
 ## 💼 Professional Experience
 
-### Data Analyst at TechAudit
-_March 2024 - Present_
-
-- Developed and maintained analytical reports and dashboards in Apache Superset
-- Automated data reporting processes using PySpark and Apache Airflow
-- Built data marts in Hive via Spark with data preprocessing and validation
-- Reduced report preparation time by 35% through automation
-
-### Data Analyst at XS Tech
-_September 2022 - February 2024_
+### Data Analyst at X5 Tech
 
 - Created interactive dashboards and visualizations in Apache Superset
 - Optimized SQL queries and data structures for better dashboard performance
 - Implemented dynamic SQL generation using Jinja templating
 - Improved data quality and accessibility for business units
+
+### Data Analyst at TechAudit
+
+- Developed and maintained analytical reports and dashboards in Apache Superset
+- Automated data reporting processes using PySpark and Apache Airflow
+- Built data marts in Hive via Spark with data preprocessing and validation
+- Reduced report preparation time by 35% through automation
 
 ## 📚 Education
 
