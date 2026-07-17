@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Alexey Sushentsev
 
-I'm a passionate Data Analyst and BI Developer from Moscow, Russia, with 3+ years of experience in building end-to-end data solutions. I specialize in transforming raw data into actionable insights through advanced analytics, interactive dashboards, and automated reporting systems.
+I'm a passionate Data Analyst and Data Engineer from Moscow, Russia, with 3+ years of experience in building end-to-end data solutions. I specialize in transforming raw data into actionable insights through advanced analytics, interactive dashboards, and automated reporting systems.
 
 ## 🚀 Skills
 
