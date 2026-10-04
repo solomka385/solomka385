@@ -1,46 +1,21 @@
-# 👋 Hi there! I'm Alexey Sushentsev
+# Hi, I'm Alexey Sushentsev 👋
 
-I'm a passionate Data Analyst and Data Engineer from Moscow, Russia, with 3+ years of experience in building end-to-end data solutions. I specialize in transforming raw data into actionable insights through advanced analytics, interactive dashboards, and automated reporting systems.
+**Data Engineer** based in Moscow. I build reliable data pipelines and data marts, and bring AI agents into everyday engineering work.
 
-## 🚀 Skills
+### What I've worked on
 
-**Programming Languages:** Python, SQL, Jinja
-**BI & Visualization:** Apache Superset, Power BI, SSRS  
-**Databases:** PostgreSQL, MS SQL, Greenplum, ClickHouse, Hive, Trino 
-**Data Engineering:** PySpark, Apache Airflow, Apache Spark, ETL/ELT, Kafka, Grafana
-**Tools & Platforms:** Jupyter Notebook, Docker, Git, Jira, Confluence  
-**Languages:** Russian (Native), English (B1)
+- At **X5 Tech**, migrated 30+ data marts from Hive to Trino, cutting average processing time by **30–40%**.
+- Used an **LLM to update Data Lineage and source metadata**, reducing manual documentation by about **50%**.
+- Built an **MCP server for AI agents** to work with team services, cutting analytical work on tasks by about **50%**.
+- Introduced data quality checks and SLA monitoring with Airflow; also build dashboards in Apache Superset.
 
-## 💼 Professional Experience
+**Stack:** Python, SQL, PySpark, Airflow, Trino, Hive, ClickHouse, PostgreSQL, Kafka, S3, Iceberg, Superset, GitLab CI.
 
-### Data Analyst at X5 Tech
+**Experience:** X5 Tech (2024–present) · TechAudit (2022–2024)  
+**Education:** BSc in Computer Science, Russian University of Transport (2026)
 
-- Created interactive dashboards and visualizations in Apache Superset
-- Optimized SQL queries and data structures for better dashboard performance
-- Implemented dynamic SQL generation using Jinja templating
-- Improved data quality and accessibility for business units
+**Contact:** [Email](mailto:sushentsev5995@gmail.com) · [Telegram](https://t.me/sush_385) · [Resume](https://hh.ru/resume/578bb081ff10ad203c0039ed1f6459654e6270)
 
-### Data Analyst at TechAudit
+---
 
-- Developed and maintained analytical reports and dashboards in Apache Superset
-- Automated data reporting processes using PySpark and Apache Airflow
-- Built data marts in Hive via Spark with data preprocessing and validation
-- Reduced report preparation time by 35% through automation
-
-## 📚 Education
-
-**Bachelor's Degree in Computer Science**  
-Russian University of Transport, Higher School of Engineering, Moscow  
-_2021 - 2026_
-
-## 📜 Certifications & Courses
-
-- Business Analyst Course - TechAudit (2025)
-- Data Analyst Course - Sapiens Solution (2024)
-- Greenplum Courses
-
-## 📫 How to Reach Me
-
-**Email:** sushentsev5995@gmail.com  
-**Resume:** [HH.ru Profile](https://hh.ru/resume/578bb081ff10ad203c0039ed1f6459654e6270)  
-**GitHub:** [solomka385](https://github.com/solomka385)
+![An endless Pac-Man chase: ghosts follow as Pac-Man eats dots](./pacman-chase.gif)
