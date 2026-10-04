@@ -1,6 +1,16 @@
-# Hi, I'm Alexey Sushentsev 👋
+<h1 align="center">Alexey Sushentsev</h1>
 
-**Data Engineer** based in Moscow. I build reliable data pipelines and data marts, and bring AI agents into everyday engineering work.
+<p align="center"><strong>Data Engineer</strong> · Data platforms · Practical AI</p>
+
+<p align="center">
+  <a href="https://t.me/sush_385"><img alt="Telegram @sush_385" src="https://img.shields.io/badge/Telegram-%40sush__385-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="mailto:sushentsev5995@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-34495E?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://hh.ru/resume/578bb081ff10ad203c0039ed1f6459654e6270"><img alt="Resume on HH.ru" src="https://img.shields.io/badge/Resume-HH.ru-E8505B?style=for-the-badge&logoColor=white"></a>
+</p>
+
+---
+
+I build reliable data pipelines and data marts, and bring AI agents into everyday engineering work.
 
 ### What I've worked on
 
@@ -13,8 +23,6 @@
 
 **Experience:** X5 Tech (2024–present) · TechAudit (2022–2024)  
 **Education:** BSc in Computer Science, Russian University of Transport (2026)
-
-**Contact:** [Email](mailto:sushentsev5995@gmail.com) · [Telegram](https://t.me/sush_385) · [Resume](https://hh.ru/resume/578bb081ff10ad203c0039ed1f6459654e6270)
 
 ---
 
