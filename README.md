@@ -43,5 +43,5 @@ _2021 - 2026_
 ## 📫 How to Reach Me
 
 **Email:** sushentsev5995@gmail.com  
-**Resume:** [HH.ru Profile](https://hh.ru/resume/24c50e85ff0ee4dfbd0039ed1f39597242534d)  
+**Resume:** [HH.ru Profile](https://hh.ru/resume/578bb081ff10ad203c0039ed1f6459654e6270)  
 **GitHub:** [solomka385](https://github.com/solomka385)
