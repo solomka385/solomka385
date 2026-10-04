@@ -38,7 +38,6 @@ _2021 - 2026_
 - Business Analyst Course - TechAudit (2025)
 - Data Analyst Course - Sapiens Solution (2024)
 - Greenplum Courses
-- Clientocracy Course
 
 ## 📫 How to Reach Me
 
